@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shani Kumar
-### 💻 Developer | 🛠️ Full‑Stack Enthusiast | 🤖 UI & UX Designer | 🌐 Tech Explorer
+### 🛠️ Full‑Stack Developer| 🤖 UI & UX Designer | 🌐 Tech Explorer
 Welcome to my GitHub profile! I love building projects, solving problems, and continuously learning new technologies.
 click on button for more information : 
  <sub>[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000?logo=googlechrome\&logoColor=white)](https://portfolio-website-nx2a.onrender.com)</sub>
@@ -18,12 +18,12 @@ click on button for more information :
 **UI & UX:**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva\&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd\&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop\&logoColor=white)
+<!-- ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd\&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop\&logoColor=white) -->
 
 
 **Other Skills:**
-![UML](https://img.shields.io/badge/UML_Diagrams-02569B?logo=uml\&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?logo=ethereum\&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk\&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?logo=ethereum\&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk\&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
 
 
 ## <sub>🔗 Connect With Me</sub>
