@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Shani Kumar
 ### 💻 Developer | 🛠️ Full‑Stack Enthusiast | 🤖 UI & UX Designer | 🌐 Tech Explorer
 Welcome to my GitHub profile! I love building projects, solving problems, and continuously learning new technologies. This README is a quick snapshot of who I am, what I do, and what I can offer.
-About me: *[portfolio](https://portfolio-website-nx2a.onrender.com)
 
 ---
 ## 🧠 My Technical Skills :
